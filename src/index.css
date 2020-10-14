@@ -1,0 +1,28 @@
+#sec {
+    
+}
+#header1 {
+    padding-top: 16%;
+}
+#tech {
+    color:lightskyblue;
+}
+.btn-get{
+    background-color: lightgreen;
+    border-radius: 10px 10px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    
+}
+#cont-header {
+    color: lightskyblue;
+}
+
+#about-page {
+    padding-top: 16%;
+    color: skyblue;
+    font-style: oblique;
+    font-weight: 400%;
+}
