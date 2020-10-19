@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Com from "./com.jpg";
 
 const Home = () => {
     return (
@@ -23,7 +23,10 @@ const Home = () => {
             </p>
             <br />
             <div className='mt-3'>
-            <a href="" className='btn-get'> Get Started</a>
+            <a href="./about" className='btn-get'> Get Started</a>
+            </div>
+            <div className="computer">
+            <img src= {Com} alt="jpg pic"  />
             </div>
                 
            

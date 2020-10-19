@@ -1,8 +1,9 @@
 import React from 'react';
-
+import Cont from "./contect.webp";
 const Contact = () => {
     return (
         <>
+        <section className="con">
         <div className='container-flud nav_bg'>
             <div className="row">
                 <div className="col-10 mx-auto">
@@ -56,6 +57,12 @@ const Contact = () => {
             </div>
           </div>
         </div>
+        </section>
+        <div className="cont">    
+                <img src={Cont} alt="Contact Pic" />
+        </div>
+
+
         </>
     );
 }

@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Saudi from "./saudia.webp";
 const About = () => {
     return (
         <>
@@ -16,8 +16,10 @@ const About = () => {
 
           <p>All Over The Kingdom Saudi Arabia</p>
 
-
-
+              <span className="saudi">
+                  <img src={Saudi} alt="saudi flag" />
+                  </span>
+            
 
             </div>
             </div>
